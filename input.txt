@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nmaprun>
+<?xml-stylesheet href="file:///usr/bin/../share/nmap/nmap.xsl" type="text/xsl"?>
+<!-- Nmap 7.01 scan initiated Mon Mar  6 14:29:12 2017 as: nmap -n -sP -oX nmap.txt 10.210.14.128/26 -->
+<nmaprun scanner="nmap" args="nmap -n -sP -oX nmap.txt 10.210.14.128/26" start="1488806952" startstr="Mon Mar  6 14:29:12 2017" version="7.01" xmloutputversion="1.04">
+<verbose level="0"/>
+<debugging level="0"/>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="10.210.14.129" addrtype="ipv4"/>
+<address addr="00:18:7D:2D:0F:44" addrtype="mac" vendor="Armorlink shanghai"/>
+<hostnames>
+</hostnames>
+<times srtt="353" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="10.210.14.131" addrtype="ipv4"/>
+<address addr="28:8A:1C:47:AB:40" addrtype="mac" vendor="Juniper Networks"/>
+<hostnames>
+</hostnames>
+<times srtt="1855" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="10.210.14.132" addrtype="ipv4"/>
+<address addr="00:26:88:01:5C:80" addrtype="mac" vendor="Juniper Networks"/>
+<hostnames>
+</hostnames>
+<times srtt="1844" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="10.210.14.133" addrtype="ipv4"/>
+<address addr="3C:8A:B0:DA:95:3F" addrtype="mac" vendor="Juniper Networks"/>
+<hostnames>
+</hostnames>
+<times srtt="324" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="10.210.14.134" addrtype="ipv4"/>
+<address addr="3C:8A:B0:DA:BF:FF" addrtype="mac" vendor="Juniper Networks"/>
+<hostnames>
+</hostnames>
+<times srtt="322" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="10.210.14.136" addrtype="ipv4"/>
+<address addr="28:8A:1C:47:AB:40" addrtype="mac" vendor="Juniper Networks"/>
+<hostnames>
+</hostnames>
+<times srtt="2062" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="10.210.14.137" addrtype="ipv4"/>
+<address addr="54:E0:32:AC:0C:20" addrtype="mac" vendor="Juniper Networks"/>
+<hostnames>
+</hostnames>
+<times srtt="1842" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="10.210.14.138" addrtype="ipv4"/>
+<address addr="00:24:DC:1B:54:00" addrtype="mac" vendor="Juniper Networks"/>
+<hostnames>
+</hostnames>
+<times srtt="1842" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="10.210.14.139" addrtype="ipv4"/>
+<address addr="3C:8A:B0:DA:B4:3F" addrtype="mac" vendor="Juniper Networks"/>
+<hostnames>
+</hostnames>
+<times srtt="458" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="10.210.14.140" addrtype="ipv4"/>
+<address addr="3C:8A:B0:DB:2A:7F" addrtype="mac" vendor="Juniper Networks"/>
+<hostnames>
+</hostnames>
+<times srtt="450" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="10.210.14.141" addrtype="ipv4"/>
+<address addr="54:E0:32:AC:0E:20" addrtype="mac" vendor="Juniper Networks"/>
+<hostnames>
+</hostnames>
+<times srtt="-97423" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="10.210.14.142" addrtype="ipv4"/>
+<address addr="00:26:88:E7:8D:00" addrtype="mac" vendor="Juniper Networks"/>
+<hostnames>
+</hostnames>
+<times srtt="-97441" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="10.210.14.143" addrtype="ipv4"/>
+<address addr="28:8A:1C:47:AD:40" addrtype="mac" vendor="Juniper Networks"/>
+<hostnames>
+</hostnames>
+<times srtt="-97460" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="10.210.14.144" addrtype="ipv4"/>
+<address addr="B0:C6:9A:73:66:80" addrtype="mac" vendor="Juniper Networks"/>
+<hostnames>
+</hostnames>
+<times srtt="-97450" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="10.210.14.145" addrtype="ipv4"/>
+<address addr="3C:8A:B0:DA:AD:7F" addrtype="mac" vendor="Juniper Networks"/>
+<hostnames>
+</hostnames>
+<times srtt="-99684" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="10.210.14.146" addrtype="ipv4"/>
+<address addr="3C:8A:B0:DA:8E:7F" addrtype="mac" vendor="Juniper Networks"/>
+<hostnames>
+</hostnames>
+<times srtt="-99677" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="10.210.14.147" addrtype="ipv4"/>
+<address addr="28:8A:1C:47:AF:C0" addrtype="mac" vendor="Juniper Networks"/>
+<hostnames>
+</hostnames>
+<times srtt="-97458" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="10.210.14.148" addrtype="ipv4"/>
+<address addr="28:8A:1C:47:AD:C0" addrtype="mac" vendor="Juniper Networks"/>
+<hostnames>
+</hostnames>
+<times srtt="-97461" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="10.210.14.150" addrtype="ipv4"/>
+<address addr="28:8A:1C:47:AD:C0" addrtype="mac" vendor="Juniper Networks"/>
+<hostnames>
+</hostnames>
+<times srtt="-97468" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="10.210.14.151" addrtype="ipv4"/>
+<address addr="3C:8A:B0:DA:7B:BF" addrtype="mac" vendor="Juniper Networks"/>
+<hostnames>
+</hostnames>
+<times srtt="-99688" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="10.210.14.152" addrtype="ipv4"/>
+<address addr="3C:8A:B0:DB:23:7F" addrtype="mac" vendor="Juniper Networks"/>
+<hostnames>
+</hostnames>
+<times srtt="-99688" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="10.210.14.154" addrtype="ipv4"/>
+<address addr="00:26:88:01:5F:80" addrtype="mac" vendor="Juniper Networks"/>
+<hostnames>
+</hostnames>
+<times srtt="-97474" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="localhost-response" reason_ttl="0"/>
+<address addr="10.210.14.178" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+</host>
+<runstats><finished time="1488806953" timestr="Mon Mar  6 14:29:13 2017" elapsed="1.08" summary="Nmap done at Mon Mar  6 14:29:13 2017; 64 IP addresses (23 hosts up) scanned in 1.08 seconds" exit="success"/><hosts up="23" down="41" total="64"/>
+</runstats>
+</nmaprun>
